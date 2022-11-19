@@ -1,6 +1,6 @@
 ---
 title: "[9일차] 개발 도구 준비 & Github 블로그 만들기"
-excerpt: "개발 도구 세팅과 Github 개인 홈페이지를 만들어볼게요"
+excerpt: "개발 도구 세팅과 Github 개인 홈페이지를 만들어보겠습니다!"
 
 categories:
   - Categories1
