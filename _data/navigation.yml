@@ -19,7 +19,9 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "NAVER CLOUD CAMP"
-    url: /categories/categories1/
+    children:
+      - title: "2주차"
+        url: /categories/categories1/
 #  - title: "Categories2"
 #    url: /categories/categories2/
 #  - title: "Categories3"
