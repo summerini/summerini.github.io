@@ -1,6 +1,6 @@
 ---
 title: "[13일차] 파일 디렉토리 조작 명령어"
-excerpt: "pwd, cd, ls, file, less"
+excerpt: "cp, mv, rm, ln"
 
 categories:
   - Categories2
