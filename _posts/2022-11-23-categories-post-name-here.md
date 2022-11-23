@@ -1,5 +1,5 @@
 ---
-title: "[10일차] 파일 시스템 탐색 기본 명령어"
+title: "[13일차] 파일 시스템 탐색 기본 명령어"
 excerpt: "pwd, cd, ls, file, less"
 
 categories:
