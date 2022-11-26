@@ -1,5 +1,5 @@
 ---
-title: "[11일차] 🔒︎"
+title: "[NCA] 🔒︎"
 excerpt: "🔒︎ 유료회원만 볼 수 있어요 🔒︎"
 
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /categories1/post-name-here-3/
+permalink: /categories1/post-name-here/
 
 toc: true
 toc_sticky: true
