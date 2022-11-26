@@ -1,5 +1,5 @@
 ---
-title: "Bitcamp"
+title: "BITCAMP"
 layout: category
 permalink: /categories/categories2/
 author_profile: true
