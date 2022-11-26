@@ -7,7 +7,7 @@ categories:
 tags:
   - [Google Chrome, Google Meet, VSCode, D2Coding]
 
-permalink: /categories1/post-name-here/
+permalink: /categories2/post-name-here/
 
 toc: true
 toc_sticky: true
