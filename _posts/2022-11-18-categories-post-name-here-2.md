@@ -3,11 +3,11 @@ title: "[10일차] 프로그래밍 기초 & 리눅스 설치"
 excerpt: "프로그래밍 기초를 익히고 리눅스 설치를 해보겠습니다"
 
 categories:
-  - Categories1
+  - Categories2
 tags:
   - [Github, VirtualBox, Vagrant, Centos]
 
-permalink: /categories1/post-name-here-2/
+permalink: /categories2/post-name-here-2/
 
 toc: true
 toc_sticky: true
