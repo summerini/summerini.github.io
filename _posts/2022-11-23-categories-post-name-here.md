@@ -15,7 +15,6 @@ toc_sticky: true
 date: 2022-11-23
 last_modified_at: 2022-11-23
 ---
-
 ## 🦥 과제
 * pwd, cd, ls, file, less
 * 파일 시스템 탐색 기본 명령어에 대한 설명과 사용 예시, 출력 결과 일부를 알아보자
