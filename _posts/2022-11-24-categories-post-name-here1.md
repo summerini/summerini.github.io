@@ -7,27 +7,15 @@ categories:
 tags:
   - [Linux]
 
-permalink: /categories2/post-name-here-3/
+permalink: /categories2/post-name-here-6/
 
 toc: true
 toc_sticky: true
 
-date: 2022-11-23
-last_modified_at: 2022-11-23
+date: 2022-11-24
+last_modified_at: 2022-11-24
 ---
 
-## 🦥 과제
+## 🦥 수업 내용
 
-* 명령어를 다루는 명령어
-<br>
-
-* type
-  - 
-<br>
-
-* which
-  -   
-<br>
-
-* man
-  - 
+* 
