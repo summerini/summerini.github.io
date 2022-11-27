@@ -78,4 +78,4 @@ last_modified_at: 2022-11-23
     -HTML5 + Javascript + CSS3만으로 프로그램 구현가능  
     -복잡한 구조의 웹이 등장하면서 성능뿐만 아니라 보안도 강화됨  
     -과거에는 서버 (back-end)가 필수였지만 지금은 웹만으로 프로그램 구현가능  
-    ![www](https://user-images.githubusercontent.com/118426890/204127290-8b4d0387-7c6d-4633-8607-59b3a9ad5f98.png)
+    ![images_trequartista_post_508d42e8-adf0-4536-8add-3ff17ea3e69c_web1 0](https://user-images.githubusercontent.com/118426890/204129497-7428f77d-b13e-4eba-aa22-ab4612274153.jpg)
