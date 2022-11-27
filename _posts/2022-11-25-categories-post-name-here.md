@@ -7,7 +7,7 @@ categories:
 tags:
   - [HTTP]
 
-permalink: /categories2/post-name-here-6/
+permalink: /categories2/post-name-here-7/
 
 toc: true
 toc_sticky: true
