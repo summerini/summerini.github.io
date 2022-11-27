@@ -1,5 +1,5 @@
 ---
-title: "[NCE] 🔒︎"
+title: "[NCP] 🔒︎"
 excerpt: "🔒︎ 유료회원만 볼 수 있어요 🔒︎"
 
 categories:
@@ -12,8 +12,8 @@ permalink: /categories1/post-name-here-1/
 toc: true
 toc_sticky: true
 
-date: 2022-11-22
-last_modified_at: 2022-11-19
+date: 2022-11-18
+last_modified_at: 2022-11-18
 ---
 
 ## 🦥 🔒︎
