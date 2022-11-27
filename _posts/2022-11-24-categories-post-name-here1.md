@@ -1,6 +1,6 @@
 ---
 title: "[14일차] HTML 태그 사용법"
-excerpt: ""
+excerpt: "HTML Tag"
 
 categories:
   - Categories2
