@@ -1,6 +1,6 @@
 ---
 title: "[14일차] 프로그래밍 기초, 시맨틱 태그란?"
-excerpt: ""
+excerpt: "데이터와 메모리 관계, 인코딩/디코딩, 시맨틱 태그에 대해 알아보자 (wow 하버드!!)"
 
 categories:
   - Categories2
