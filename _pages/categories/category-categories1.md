@@ -1,5 +1,5 @@
 ---
-title: "NAVER CLOUD CAMP"
+title: "NAVER CLOUD"
 layout: category
 permalink: /categories/categories1/
 author_profile: true
