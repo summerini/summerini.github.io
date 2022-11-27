@@ -1,11 +1,11 @@
 ---
-title: "[15일차] "
+title: "[14일차] HTML 태그 사용법"
 excerpt: ""
 
 categories:
   - Categories2
 tags:
-  - [Linux]
+  - [HTML]
 
 permalink: /categories2/post-name-here-6/
 
