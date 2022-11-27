@@ -1,5 +1,5 @@
 ---
-title: "[NCP] 🔒︎"
+title: "[NCE] 🔒︎"
 excerpt: "🔒︎ 유료회원만 볼 수 있어요 🔒︎"
 
 categories:
