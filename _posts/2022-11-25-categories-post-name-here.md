@@ -66,13 +66,12 @@ last_modified_at: 2022-11-25
         2. URN (-name)
     5. Get 요청
     6. text vs binary 파일
-        1. text - 일반 텍스트 편집기로 편집 가능한 포맷
-            1. 예) txt, rtf, html, css, js 등등
-        2. binary - byte 단위로 포맷 / 일반 텍스트로 편집 불가 / 전용 app.사용
-            1. 예) jpg, mp3
+        1. text - 일반 텍스트 편집기로 편집 가능한 포맷  
+            예) txt, rtf, html, css, js 등등
+        2. binary - byte 단위로 포맷 / 일반 텍스트로 편집 불가 / 전용 app.사용  
+            예) jpg, mp3
             2. 텍스트로 인코딩해서 보내면 가능함 base64로 변경해서 보여주기
-                1. 
-                
+
                 [URL length: how long can a URL be? - SISTRIX](https://www.sistrix.com/ask-sistrix/technical-seo/site-structure/url-length-how-long-can-a-url-be)
                 
     7. POST 요청
