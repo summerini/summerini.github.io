@@ -25,38 +25,38 @@ last_modified_at: 2022-11-23
 <br>
 
 * pwd
-  - 현재 작업중인 디렉토리를 표시하는 명령어 <p>
-    [vagrant@host1 git]$ pwd <p>
-    /home/vagrant/git
+  - 현재 작업중인 디렉토리를 표시하는 명령어  
+    [vagrant@host1 git]$ pwd  
+    /home/vagrant/git  
 <br>
       
 * cd
-  - 디렉토리로 이동할 때 사용하는 명령어 <p>
-    [vagrant@host1 ~]$ cd git <p>
+  - 디렉토리로 이동할 때 사용하는 명령어  
+    [vagrant@host1 ~]$ cd git  
     [vagrant@host1 git]$
 <br>
       
 * ls
-  - 디렉토리 내용을 나열하는 명령어 <p>
-    [vagrant@host1 git]$ ls <p>
-    bitcamp-ncp  bitcamp-ncp2  bitcamp-study <p>
-    [vagrant@host1 git]$ <p>
+  - 디렉토리 내용을 나열하는 명령어  
+    [vagrant@host1 git]$ ls  
+    bitcamp-ncp  bitcamp-ncp2  bitcamp-study  
+    [vagrant@host1 git]$  
 <br>
       
 * file
-  - 파일 타입을 확인하는 명령어 <p>
-    [vagrant@host1 bitcamp-ncp]$ file b.txt <p>
-    b.txt: ASCII text <p>
+  - 파일 타입을 확인하는 명령어  
+    [vagrant@host1 bitcamp-ncp]$ file b.txt  
+    b.txt: ASCII text  
 <br>
 
 * less
-  - 파일 내용을 표시하는 명령어 <p>
-    [vagrant@host1 bitcamp-ncp]$ less b.txt <p>
-    1111 <p>
-    2222 <p>
-    3333 <p>
-    4444 <p>
-    5555 <p>
-    6666 <p>
-    b.txt (END) <p>
+  - 파일 내용을 표시하는 명령어  
+    [vagrant@host1 bitcamp-ncp]$ less b.txt  
+    1111  
+    2222  
+    3333  
+    4444  
+    5555  
+    6666  
+    b.txt (END)  
 <br>
