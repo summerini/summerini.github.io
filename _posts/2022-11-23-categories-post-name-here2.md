@@ -25,37 +25,37 @@ last_modified_at: 2022-11-23
 <br>
 
 * cp
-  - 파일 및 디렉토리를 복사하는 명령어<p>
-    [vagrant@host1 bitcamp-ncp]$ cp b.txt b2.txt<p>
-    [vagrant@host1 bitcamp-ncp]$ ls<p>
-    b2.txt  b.txt  c.txt  d.txt  hello2.txt  README.md  x.txt<p>
+  - 파일 및 디렉토리를 복사하는 명령어  
+    [vagrant@host1 bitcamp-ncp]$ cp b.txt b2.txt  
+    [vagrant@host1 bitcamp-ncp]$ ls  
+    b2.txt  b.txt  c.txt  d.txt  hello2.txt  README.md  x.txt  
 <br>
 
 * mkdir
-  - 디렉토리를 만드는 명령어<p>
+  - 디렉토리를 만드는 명령어  
 * mv
-  - 파일 및 디렉토리를 이동하고 이름을 변경하는 명령어<p>
-    [vagrant@host1 bitcamp-ncp]$ mkdir test<p>
-    [vagrant@host1 bitcamp-ncp]$ ls<p>
-    b.txt  c.txt  d.txt  gitcamp-ncp2  hello2.txt  README.md  test  x.txt<p>
-    [vagrant@host1 bitcamp-ncp]$ mv b2.txt test<p>
-    mv: cannot stat ‘b2.txt’: No such file or directory<p>
-    [vagrant@host1 bitcamp-ncp]$ mv x.txt test<p>
-    [vagrant@host1 bitcamp-ncp]$ ls<p>
-    b.txt  c.txt  d.txt  gitcamp-ncp2  hello2.txt  README.md  test<p>
-    [vagrant@host1 bitcamp-ncp]$ cd test<p>
-    [vagrant@host1 test]$ ls<p>
-    x.txt<p>
-    [vagrant@host1 test]$<p>
+  - 파일 및 디렉토리를 이동하고 이름을 변경하는 명령어  
+    [vagrant@host1 bitcamp-ncp]$ mkdir test  
+    [vagrant@host1 bitcamp-ncp]$ ls  
+    b.txt  c.txt  d.txt  gitcamp-ncp2  hello2.txt  README.md  test  x.txt  
+    [vagrant@host1 bitcamp-ncp]$ mv b2.txt test  
+    mv: cannot stat ‘b2.txt’: No such file or directory  
+    [vagrant@host1 bitcamp-ncp]$ mv x.txt test  
+    [vagrant@host1 bitcamp-ncp]$ ls  
+    b.txt  c.txt  d.txt  gitcamp-ncp2  hello2.txt  README.md  test  
+    [vagrant@host1 bitcamp-ncp]$ cd test  
+    [vagrant@host1 test]$ ls  
+    x.txt  
+    [vagrant@host1 test]$  
 <br>
 
 * rm
-  - 파일 및 디렉토리를 삭제하는 명령어<p>
-    [vagrant@host1 test]$ rm x.txt<p>
-    [vagrant@host1 test]$ ls<p>
+  - 파일 및 디렉토리를 삭제하는 명령어  
+    [vagrant@host1 test]$ rm x.txt  
+    [vagrant@host1 test]$ ls  
 <br>
 
 * ln
-  - 하드 링크 또는 심볼릭 링크를 만드는 명령어<p>
-    [vagrant@host1 bitcamp-ncp]$ ln -s /1.txt<p>
+  - 하드 링크 또는 심볼릭 링크를 만드는 명령어  
+    [vagrant@host1 bitcamp-ncp]$ ln -s /1.txt  
 <br>
