@@ -15,6 +15,7 @@ toc_sticky: true
 date: 2022-11-23
 last_modified_at: 2022-11-23
 ---
+
 ## 🦥 과제
 * type, which, man, apropos, info, whatis, alias
 * 명령어를 다루는 명령어에 대한 설명과 사용 예시, 출력 결과 일부를 알아보자
