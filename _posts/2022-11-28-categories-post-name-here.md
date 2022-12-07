@@ -1,11 +1,20 @@
 ---
+<<<<<<< HEAD
 title: "[16일차] Web 기술 - 1 "
 excerpt: " "
+=======
+title: "[16일차] Web 기술 (HTML, CSS)"
+excerpt: "HTML, CSS 사용법"
+>>>>>>> cfcbdb6a37376ed5e54833396d835e7ddd2616cb
 
 categories:
   - Categories2
 tags:
+<<<<<<< HEAD
   - [ ]
+=======
+  - [HTML], [CSS]
+>>>>>>> cfcbdb6a37376ed5e54833396d835e7ddd2616cb
 
 permalink: /categories2/post-name-here-8/
 
@@ -18,6 +27,7 @@ last_modified_at: 2022-11-28
 
 ## 🦥 수업 내용
 
+<<<<<<< HEAD
 * - CSS 사용법
     - CSS - Cascading Style Sheet : HTML element의 모양을 정의
     
@@ -281,3 +291,6 @@ ctrl + / 주석 막기
     **<option value="a" selected>A형</option>**
     
     selected=”selected” 값은 브라우저에서 무시함
+=======
+* Web 기술
+>>>>>>> cfcbdb6a37376ed5e54833396d835e7ddd2616cb
